@@ -1,0 +1,10 @@
+rule,count
+flag_missing_description,20000
+flag_email_suspicious,11103
+flag_company_salary_mismatch,2599
+flag_trigger_keyword,2571
+flag_vague_company,1974
+flag_location_missing,748
+flag_location_multiple_inconsistent,249
+flag_salary_unrealistic,0
+flag_applicants_anomaly,0
